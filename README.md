@@ -9,6 +9,7 @@ A simple program I wrote for myself that reminds me to get up and move around a 
 - Custom flags for altering DisableSchedule
 - Custom-made Romaji to Hiragana converter for my quizzes
 - "override" when you don't know an answer
+- **WARNING** You will need a file called "JapaneseQuiz.txt" and one called "DisableSchedule.txt" next to (in the same folder as) MovementReminder.py, even if you don't plan on learning Japanese or disabling the program. If you want to use the program differently, edit the code yourself ;)
 
 ## Use
 In general, MovementReminder.py should be ran alone, with the command `py <filepath>` where `filepath` is the path to where MovementReminder.py is located on the computer (for example, "C:\Users\Owner\Downloads\MovementReminder.py"). For other purposes, flags can be appended to the end of this command. See the next section for more information.
