@@ -1,0 +1,354 @@
+再生,さいせい,reproduction
+冷房,れいぼう,cooling
+増減,ぞうげん,increase/decrease
+戻す,もどす,to return
+続く,つづく,to continue
+袋,ふくろ,bag
+粉,こな,powder
+干す,ほす,to dry
+混ぜる,まぜる,to mix
+SKIP,そっくり,alike
+発生,はっせい,appearance (non-living)
+SKIP,だぶだぶ,loose-fit
+SKIP,ぐうぐう,snore
+SKIP,ざあざあ,heavy rain
+吠える,ほえる,to howl
+追い越す,おいこす,to pass (in traffic)
+与える,あたえる,to give
+非常,ひじょう,emergency
+非常に,ひじょうに,very
+随分,ずいぶん,quite
+不安,ふあん,uneasy
+予定,よてい,plan
+対する,たいする,to oppose
+招待,しょうたい,invite
+SKIP,せっかく,after great lengths
+SKIP,つい,accidentally
+SKIP,それほど,not much
+SKIP,げか,injury
+SKIP,よろしい,OK
+息子,むすこ,son
+楽器,がっき,musical instrument
+欲しい,ほしい,want
+田舎,いなか,country
+砂糖,さとう,sugar
+定価,ていか,market price
+砂,すな,sand
+お求める,おもとめる,to buy
+塩,しお,salt
+振り込む,ふりこむ,to transfer
+しょう油,しょうゆ,soy sauce
+油,あぶら,oil
+消費,しょうひ,expense
+枚,まい,flat item counter
+緑茶,りょくちゃ,green tea
+消費税,しょうひぜい,sales tax
+紅茶,こうちゃ,black tea
+箱,はこ,box
+冊,さつ,book counter
+割合,わりあい,ratio
+利用,りよう,use
+お支払い,おしはらい,payment
+送信,そうしん,send (mail)
+x倍,ばい,x times
+割引,わりびき,discount
+本店,ほんてん,main store
+x割,わり,x tenths
+支社,ししゃ,branch office
+支,し,branch
+告げる,つげる,to confess
+格安,かくやす,super cheap
+上級,じょうきゅう,advanced
+性,せい,family name
+三連休,さんれんきゅう,3 day weekend
+記入,きにゅう,fill out
+高齢,こうれい,old age
+連れていく,つれていく,to bring (living)
+性格,せいかく,personality
+記事,きじ,newspaper article
+届ける,とどける,to deliver
+宅配便,たくはいびん,courier
+受付,うけつけ,reception
+明細,めいさい,in detail
+細い,ほそい,thick
+半額,はんがく,half off
+望む,のぞむ,to hope
+交換,こうかん,exchange
+金額,きんがく,fee
+値段,ねだん,price
+両替,りょうがえ,currency exchange
+上達,じょうたつ,progress
+預ける,あずける,to care for
+伺う,うかがう,to ask/visit
+涙,なみだ,tears
+記念,きねん,memory
+届く,とどく,to be delivered
+配る,くばる,to deliver
+荷物,にもつ,luggage
+配達,はいたつ,delivery
+変換,へんかん,change
+不在,ふざい,absence
+衣類,いるい,clothes
+帯,おび,belt
+表,おもて,front
+柔らかい,やわらかい,soft
+裏,うら,back
+煮る,にる,to boil
+時間帯,じかんたい,timezone
+勤める,つとめる,to work for
+現在,げんざい,present
+大型,おおがた,large size
+汗,あせ,sweat
+遅刻,ちこく,tardiness
+失望,しつぼう,despair
+記号,きごう,sign
+周り,まわり,surroundings
+SKIP,～たびに,every time ~
+困難な,こんなんな,difficult
+結局,けっきょく,after all
+失敗,しっぱい,fail
+感想,かんそう,impression
+渋滞,じゅうたい,bad traffic
+調査,ちょうさ,survey
+予想,よそう,prediction
+SKIP,かえって,however
+調子,ちょうし,inner condition
+様子,ようす,outer condition
+頼む,たのむ,to request
+大勢,おおぜい,lots of people
+位置,いち,position
+強調,きょうちょう,emphasis
+悩む,なやむ,to consider
+動く,うごく,to move
+強弱,きょうじゃく,strong/weak
+単位,たんい,unit
+予習,よしゅう,preview
+復習,ふくしゅう,review
+練習,れんしゅう,practice
+真っ直ぐ,まっすぐ,straight
+直線,ちょくせん,straight line
+快適な,かいてきな,comfy
+回復,かいふく,recovery
+選挙,せんきょう,election
+曲線,きょくせん,curve
+宿,やど,inn
+辞める,やめる,to resign
+結構,けっこう,okay without
+奥,おく,deep inside
+祝日,しゅくじつ,holiday
+結ぶ,むすぶ,to tie
+政治,せいじ,politics
+直接,ちょくせつ,direct
+食欲,しょくよく,appetite
+直す,なおす,to correct
+原因,げんいん,cause
+生産,せいさん,produce
+倉庫,そうこ,warehouse
+結果,けっか,result
+札,さつ,banknote
+机,つくえ,desk
+杯,はい,cup counter
+腹,ふく,stomach
+汁,しる,soup
+息,いき,breath
+自動詞,じどうし,intransitive verb
+他動詞,たどうし,transitive verb
+動詞,どうし,verb
+冷える,ひえる,to cool
+普段,ふだん,usual
+泊まる,とまる,to stay
+畳,たたみ,tatami
+腕,うで,arm
+大切な,たいせつな,important
+落ちる,おちる,to drop
+思い出,おもいで,memory
+観光,かんこう,tourism
+優しい,やさしい,kind
+作品,さくひん,artwork
+近づく,ちかづく,to approach
+現実,げんじつ,reality
+宿題,しゅくだい,homework
+存在,そんざい,existence
+想像,そうぞう,imagination
+表す,あらわす,to represent
+筆者,ひっしゃ,author
+定着,ていちゃく,establishment
+絵画,かいが,painting
+誕生,たんじょう,birth
+決して,けっして,never
+自然,しぜん,nature
+向こう,むこう,beyond
+消化,しょうか,digestion
+視覚,しかく,vision
+作業,さぎょう,work
+補い,おぎない,complementary
+描く,かく,to draw
+吐く,はく,to vomit
+普遍的な,ふへんてきな,universal
+芸術,げいじゅつ,art
+理屈,りくつ,reason
+解決,かいけつ,solution
+聴覚,ちょうかく,hearing
+捉える,とらえる,to grasp
+沁みる,しみる,to be sensitive
+治す,なおす,to cure
+治療,ちりょう,treatment
+泣く,なく,to cry
+鳴く,なく,to cry (animal)
+汚れ,よごれ,dirt
+汚い,きたない,dirty
+木の葉,このは,leaf
+開発,かいはつ,development
+並べる,ならべる,to set up
+熱心な,ねっしんな,serious
+公務員,こうむいん,public servant
+暑い,あつい,hot (weather)
+熱い,あつい,hot (object)
+歯科,しか,dentist office
+吸う,すう,to breathe
+息切れ,いきぎれ,shortness of breath
+呼吸,こきゅう,respiration
+独身,どくしん,single
+睡眠,すいみん,sleep
+救急車,きゅうきゅうしゃ,ambulance
+酒屋,さかや,liquor store
+身分,みぶん,status
+刺身,さしみ,sashimi
+刺す,さす,to stab
+眠い,ねむい,sleepy
+代わる,かわる,to replace
+県,けん,prefecture
+吹く,ふく,to blow
+津波,つなみ,tsunami
+暖かい,あたたかい,warm
+報告,ほうこく,report
+曇り,くもり,cloud
+事務所,じむしょ,office
+好調,こうちょう,good vibes
+敗れる,やぶれる,to lose
+要求,ようきゅう,required
+調節,ちょうせつ,adjustment
+至急,しきゅう,quickly
+鳩,はと,dove
+退院,たいいん,discharge from hospital
+話題,わだい,trendy
+変更,へんこう,change
+～界,かい,world of ~
+現段階,げんだんかい,at this time
+詳細,しょうさい,detail
+大臣,だいじん,minister
+非公式,ひこうしき,unofficial
+総～,そう,all of ~
+分析,ぶんせき,analysis
+SKIP,ぶらぶら,purposeless
+SKIP,ぐらぐら,bubbly
+SKIP,がらがら,empty
+SKIP,ばらばら,scattered
+活気,かっき,liveliness
+詰まる,つまる,to be jammed
+反映,はんえい,reflect
+SKIP,しっとり,humid/moist
+SKIP,うっすら,thin
+SKIP,ぼんやり,out of focus
+詳しい,くわしい,knowledgeable
+SKIP,ブーム,trend
+流行,りゅうこう,trend
+SKIP,マイブーム,obsession
+慎重,しんちょう,careful
+縮む,ちぢむ,to shrink
+SKIP,ほぼ,almost
+大体,だいたい,usually
+SKIP,うっとり見る,to stare
+SKIP,じりじり,blazing
+SKIP,がさがさ,bug crawling
+SKIP,くしゃくしゃ,crinkle
+SKIP,がりがりにやせる,to become thin
+SKIP,ぎりぎり,last minute
+SKIP,おどおど,awkward
+SKIP,さっさ,fast
+SKIP,ぱったり,suddenly
+請求書,せいきゅうしょ,bill
+職業,しょくぎょう,occupation
+技術,ぎじゅつ,skill
+転職,てんしょく,change jobs
+募集,ぼしゅう,recruit
+一般,いっぱん,general public
+優勝,ゆうしょう,victory
+勝つ,かつ,to win
+負ける,まける,to lose
+反対,はんたい,opposite
+電球,でんきゅう,lightbulb
+流す,ながす,to flow
+決して,けっして,never
+決定,けってい,decision
+投げる,なげる,to throw
+経済,けいざい,economy
+貿易,ぼうえき,trade
+輸入出,ゆにゅうしゅつ,import/export
+完成,かんせい,complete
+成長,せいちょう,mature
+易しい,やさしい,easy
+経験,けいけん,experience
+経営,けいえい,management
+戦う,たたかう,to fight
+相談,そうだん,advice
+屡々,しばしば,often
+比べる,くらべる,to compare
+原料,げんりょう,material
+材料,ざいりょう,ingredient
+化粧,けしょう,makeup
+否定,ひてい,negation
+政府,せいふ,government
+肯定,こうてい,positive
+欠席,けっせき,absence
+欠ける,かける,to lack
+専門,せんもん,specialty
+私的,してき,personal
+改札口,かいさつぐち,ticket gate
+改める,あらためる,to change
+国際,こくさい,international
+会議,かいぎ,conference
+済ませる,すませる,to complete
+実験,じっけん,experiment
+個人的な,こじんてきな,personal
+電波,でんぱ,radio wave
+範囲,はんい,scope
+距離,きょり,distance
+SKIP,せめて,at least
+利益,りえき,profit
+叶う,かなう,to come true
+苦労,くろう,hardship
+夢,ゆめ,dream
+末に,すえに,after
+挙句,あげく,after all
+面倒な,めんどうな,troublesome
+拍手,はくしゅ,applause
+SKIP,むしろ,rather
+解消,かいしょう,relief
+日記,にっき,diary
+肌,はだ,skin
+SKIP,さっと,light quick motion
+石鹼,せっけん,soap
+一部分,いちぶぶん,one portion
+欠点,けってん,shortcoming
+改正,かいせい,alteration
+変化,へんか,change
+多種多様な,たしゅたような,various
+対応,たいおう,corresponding
+風景,ふうけい,scenery
+旅,たび,journey
+着く,つく,to arrive
+形,かたち,shape
+異なり,ことなり,unlike
+SKIP,どぎまぎ,stutter
+SKIP,たっぷり,a lot
+SKIP,うろうろ,wander
+SKIP,がたがた,tremble
+SKIP,じろじろ見る,to stare
+SKIP,べたべた,sticky
+SKIP,ぶらぶら,billow
+SKIP,ぬめぬめ,sticky
+伸び伸び,のびのび,stretch
+伸ばす,のばす,to stretch
+SKIP,ごちゃごちゃ,cluttered
+SKIP,くよくよ,sadness
